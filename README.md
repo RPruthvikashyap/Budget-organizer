@@ -1,8 +1,10 @@
 # Budget-organizer
 This project helps us managing day to day transactions and helps us assist better financial planning the in future. It also keeps our record organized with the benefit of never forgetting where we have spent our expenses.
 
+
 SIGN UP
 ![image](https://github.com/RPruthvikashyap/Budget-organizer/assets/70802964/b90af78f-e97a-4c79-9a77-1ef9b8b681f0)
+
 
 LOGIN
 ![image](https://github.com/RPruthvikashyap/Budget-organizer/assets/70802964/428e3d5f-f2f1-4097-8935-3f53cefa0fb1)
